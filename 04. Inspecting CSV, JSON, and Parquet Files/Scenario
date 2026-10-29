@@ -1,0 +1,5 @@
+Imagine a retail company receives sales information from multiple systems.
+
+One system exports data as CSV files, another delivers JSON through APIs, while the analytics platform stores large datasets in Parquet format.
+
+As a data engineer, you should be able to inspect these different formats, understand their structure, and choose the most suitable format for a given data processing task.
