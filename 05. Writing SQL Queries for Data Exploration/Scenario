@@ -1,0 +1,5 @@
+A retail team stores customer orders in PostgreSQL and needs quick answers about sales performance.
+
+Using SQL, we can explore the sales table to identify high-value products, calculate order statistics, find unique products, and summarise sales by product.
+
+This demonstrates how SQL turns stored transactional data into useful business insights.
