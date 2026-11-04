@@ -1,0 +1,5 @@
+Imagine a retail business wants deeper insights from its order data.
+
+The team needs to identify high-value customers, rank orders by revenue, track cumulative sales over time, compare totals within each product group, and find the top-performing order for every product.
+
+These tasks require more than basic filtering and aggregation, so we will use CTEs and window functions to solve them efficiently.
