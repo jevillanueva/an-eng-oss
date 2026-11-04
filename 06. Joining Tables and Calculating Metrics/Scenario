@@ -1,0 +1,7 @@
+Imagine a retail company stores customer information separately from order transactions.
+
+The business now wants to answer questions such as: 
+Which customers have placed orders? 
+Which customers have not purchased anything yet? 
+How much revenue did each order generate? 
+And which customers contribute the most value?
