@@ -1,0 +1,5 @@
+Imagine you have just joined NorthStar Logistics as a junior data engineer.
+
+Every morning, regional hubs submit shipment records that are used by operations teams to monitor deliveries across the network.
+
+Today’s incoming file contains valid records, but it also includes missing destination details, incomplete delivery statuses, invalid package weights, inconsistent hub formatting, and a duplicate shipment.
