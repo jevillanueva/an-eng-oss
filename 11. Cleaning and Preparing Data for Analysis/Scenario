@@ -1,0 +1,5 @@
+Imagine the GlobalMart data engineering team has completed its quality assessment on a newly received sales dataset.
+
+The validation report identified missing customer names, missing product information, duplicate transactions, invalid quantities, negative prices, and inconsistent text formatting.
+
+Before this data can be used for dashboards, reporting, or business decisions, every issue must be corrected to ensure the dataset is accurate, consistent, and ready for analysis.
